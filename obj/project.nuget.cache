@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H9syMxTrCXcCJbUO0K3b8yG9X3mAZCqlGly8VJwwBdEW6G66t6COljaLIVYaHCPk4AJ+q7QoV2+Vbl56xfXTKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Галина\\Desktop\\planfact\\PlanFactTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Галина\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
